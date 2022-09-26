@@ -1,7 +1,7 @@
 # BookTickets
 <h2>What it does</h2>
 Online Movie Tickets Booking, Theatre Tickets Booking, at one place. Book Seats Of Your Choice Online Now.Web application offers showtimes, movie tickets, reviews, trailers, concert tickets and events near you .<br>
-<h2>WEB APPLICATION</h2>
+<h2>Web Application</h2>
 The web application can be either accessed by a user or admin to keep a track of the latest movies. It has separate UI for user and admin. User can login & signup. Search movie using name, date, and theatre name. Admin can add movie, add theatres, also can view the bookings.
 <br>
 <h2>How I built it</h2>
